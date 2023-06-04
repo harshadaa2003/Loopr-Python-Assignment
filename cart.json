@@ -1,0 +1,27 @@
+{
+  "user1": [
+    {
+      "product_id": "product1",
+      "image": "image_data1",
+      "name": "Product 1",
+      "price": 10,
+      "quantity": 2
+    },
+    {
+      "product_id": "product2",
+      "image": "image_data2",
+      "name": "Product 2",
+      "price": 15,
+      "quantity": 1
+    }
+  ],
+  "user2": [
+    {
+      "product_id": "product3",
+      "image": "image_data3",
+      "name": "Product 3",
+      "price": 20,
+      "quantity": 3
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "coupon1": {
+    "discount_percent": 10
+  },
+  "coupon2": {
+    "discount_percent": 20
+  }
+}
